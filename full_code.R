@@ -11,11 +11,15 @@ thetable = page %>%
   html_element(css= '#lau_rc_unmapanim') %>% 
   html_table()
 
-# Delete Puerto Rico in row 52, columns 2:59 -----------------------------------
-newtable = thetable[-52, -c(2:59,96:107)]
+# Delete DC and Puerto Rico in rows 9 and 52. Delete columns 2:59 --------------
+newtable = thetable[c(-9,-52), -c(2:59)]
 
-# Change tibble to data frame --------------------------------------------------
+# Change tibble to data frame 
 df <-  data.frame(newtable)
+
+# Change mar and apr 2020 columns to numeric
+df$Mar.2020 <- as.numeric(df$Mar.2020)
+df$Apr.2020 = as.numeric(df$Apr.2020)
 
 # Get column averages for every year -------------------------------------------
 unemployment = cbind(df[1], sapply(split.default(df[-1], sub("\\D+", "", names(df)[-1])), rowMeans))
