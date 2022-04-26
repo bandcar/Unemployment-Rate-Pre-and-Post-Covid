@@ -24,4 +24,6 @@ unemployment = cbind(df[1], sapply(split.default(df[-1], sub("\\D+", "", names(d
 unemployment_rate = unemployment %>% 
   mutate_if(is.numeric, round, digit = 1)
 
-
+# pivots years and unemployment rates into columns
+unemployment_rate <- unemployment_rate %>% 
+  pivot_longer(c(`2017`,`2018`,`2019`,`2021`,`2022`), names_to = "Year", values_to = "Rate")
