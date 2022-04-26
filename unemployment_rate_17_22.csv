@@ -1,0 +1,256 @@
+"","State","Year","Rate"
+"1","Alabama","2017",4.5
+"2","Alabama","2018",3.9
+"3","Alabama","2019",3.2
+"4","Alabama","2021",3.5
+"5","Alabama","2022",3
+"6","Alaska","2017",6.5
+"7","Alaska","2018",6
+"8","Alaska","2019",5.5
+"9","Alaska","2021",6.4
+"10","Alaska","2022",5.3
+"11","Arizona","2017",5
+"12","Arizona","2018",4.8
+"13","Arizona","2019",4.9
+"14","Arizona","2021",5
+"15","Arizona","2022",3.5
+"16","Arkansas","2017",3.7
+"17","Arkansas","2018",3.6
+"18","Arkansas","2019",3.5
+"19","Arkansas","2021",4.1
+"20","Arkansas","2022",3.1
+"21","California","2017",4.8
+"22","California","2018",4.3
+"23","California","2019",4.1
+"24","California","2021",7.4
+"25","California","2022",5.3
+"26","Colorado","2017",2.6
+"27","Colorado","2018",3
+"28","Colorado","2019",2.6
+"29","Colorado","2021",5.4
+"30","Colorado","2022",4
+"31","Connecticut","2017",4.4
+"32","Connecticut","2018",3.9
+"33","Connecticut","2019",3.5
+"34","Connecticut","2021",6.3
+"35","Connecticut","2022",4.9
+"36","Delaware","2017",4.5
+"37","Delaware","2018",3.8
+"38","Delaware","2019",3.7
+"39","Delaware","2021",5.4
+"40","Delaware","2022",4.6
+"41","District of Columbia","2017",6.1
+"42","District of Columbia","2018",5.7
+"43","District of Columbia","2019",5.3
+"44","District of Columbia","2021",6.7
+"45","District of Columbia","2022",6.1
+"46","Florida","2017",4.3
+"47","Florida","2018",3.7
+"48","Florida","2019",3.2
+"49","Florida","2021",4.6
+"50","Florida","2022",3.3
+"51","Georgia","2017",4.8
+"52","Georgia","2018",4
+"53","Georgia","2019",3.6
+"54","Georgia","2021",3.9
+"55","Georgia","2022",3.2
+"56","Hawaii","2017",2.2
+"57","Hawaii","2018",2.4
+"58","Hawaii","2019",2.4
+"59","Hawaii","2021",5.8
+"60","Hawaii","2022",4.2
+"61","Idaho","2017",3.2
+"62","Idaho","2018",2.9
+"63","Idaho","2019",3
+"64","Idaho","2021",3.6
+"65","Idaho","2022",2.8
+"66","Illinois","2017",5
+"67","Illinois","2018",4.4
+"68","Illinois","2019",3.9
+"69","Illinois","2021",6.1
+"70","Illinois","2022",4.8
+"71","Indiana","2017",3.5
+"72","Indiana","2018",3.4
+"73","Indiana","2019",3.3
+"74","Indiana","2021",3.6
+"75","Indiana","2022",2.3
+"76","Iowa","2017",3.1
+"77","Iowa","2018",2.5
+"78","Iowa","2019",2.6
+"79","Iowa","2021",4.3
+"80","Iowa","2022",3.5
+"81","Kansas","2017",3.6
+"82","Kansas","2018",3.3
+"83","Kansas","2019",3.1
+"84","Kansas","2021",3.3
+"85","Kansas","2022",2.5
+"86","Kentucky","2017",4.8
+"87","Kentucky","2018",4.2
+"88","Kentucky","2019",4.1
+"89","Kentucky","2021",4.7
+"90","Kentucky","2022",4.2
+"91","Louisiana","2017",5.1
+"92","Louisiana","2018",4.8
+"93","Louisiana","2019",4.6
+"94","Louisiana","2021",5.5
+"95","Louisiana","2022",4.3
+"96","Maine","2017",3.4
+"97","Maine","2018",3.1
+"98","Maine","2019",2.8
+"99","Maine","2021",4.6
+"100","Maine","2022",3.9
+"101","Maryland","2017",4
+"102","Maryland","2018",3.7
+"103","Maryland","2019",3.4
+"104","Maryland","2021",5.8
+"105","Maryland","2022",5
+"106","Massachusetts","2017",3.8
+"107","Massachusetts","2018",3.5
+"108","Massachusetts","2019",3.1
+"109","Massachusetts","2021",5.8
+"110","Massachusetts","2022",4.6
+"111","Michigan","2017",4.6
+"112","Michigan","2018",4.2
+"113","Michigan","2019",4.1
+"114","Michigan","2021",5.9
+"115","Michigan","2022",4.7
+"116","Minnesota","2017",3.5
+"117","Minnesota","2018",3.1
+"118","Minnesota","2019",3.4
+"119","Minnesota","2021",3.4
+"120","Minnesota","2022",2.7
+"121","Mississippi","2017",5.2
+"122","Mississippi","2018",5
+"123","Mississippi","2019",5.4
+"124","Mississippi","2021",5.6
+"125","Mississippi","2022",4.4
+"126","Missouri","2017",3.7
+"127","Missouri","2018",3.2
+"128","Missouri","2019",3.1
+"129","Missouri","2021",4.4
+"130","Missouri","2022",3.7
+"131","Montana","2017",4.1
+"132","Montana","2018",3.8
+"133","Montana","2019",3.6
+"134","Montana","2021",3.4
+"135","Montana","2022",2.5
+"136","Nebraska","2017",3
+"137","Nebraska","2018",2.9
+"138","Nebraska","2019",3
+"139","Nebraska","2021",2.5
+"140","Nebraska","2022",2.1
+"141","Nevada","2017",5
+"142","Nevada","2018",4.4
+"143","Nevada","2019",4
+"144","Nevada","2021",7.2
+"145","Nevada","2022",5.1
+"146","New Hampshire","2017",2.8
+"147","New Hampshire","2018",2.6
+"148","New Hampshire","2019",2.6
+"149","New Hampshire","2021",3.5
+"150","New Hampshire","2022",2.7
+"151","New Jersey","2017",4.5
+"152","New Jersey","2018",4
+"153","New Jersey","2019",3.4
+"154","New Jersey","2021",6.4
+"155","New Jersey","2022",4.6
+"156","New Mexico","2017",6
+"157","New Mexico","2018",4.9
+"158","New Mexico","2019",4.9
+"159","New Mexico","2021",6.8
+"160","New Mexico","2022",5.6
+"161","New York","2017",4.6
+"162","New York","2018",4.1
+"163","New York","2019",3.8
+"164","New York","2021",7
+"165","New York","2022",4.9
+"166","North Carolina","2017",4.5
+"167","North Carolina","2018",4
+"168","North Carolina","2019",3.8
+"169","North Carolina","2021",4.8
+"170","North Carolina","2022",3.7
+"171","North Dakota","2017",2.6
+"172","North Dakota","2018",2.4
+"173","North Dakota","2019",2.1
+"174","North Dakota","2021",3.7
+"175","North Dakota","2022",3
+"176","Ohio","2017",5
+"177","Ohio","2018",4.5
+"178","Ohio","2019",4.2
+"179","Ohio","2021",5.2
+"180","Ohio","2022",4.2
+"181","Oklahoma","2017",4
+"182","Oklahoma","2018",3.3
+"183","Oklahoma","2019",3.1
+"184","Oklahoma","2021",3.9
+"185","Oklahoma","2022",2.7
+"186","Oregon","2017",4.1
+"187","Oregon","2018",4
+"188","Oregon","2019",3.7
+"189","Oregon","2021",5.2
+"190","Oregon","2022",4
+"191","Pennsylvania","2017",5
+"192","Pennsylvania","2018",4.4
+"193","Pennsylvania","2019",4.5
+"194","Pennsylvania","2021",6.4
+"195","Pennsylvania","2022",5.1
+"196","Rhode Island","2017",4.5
+"197","Rhode Island","2018",4.1
+"198","Rhode Island","2019",3.6
+"199","Rhode Island","2021",5.7
+"200","Rhode Island","2022",3.8
+"201","South Carolina","2017",4.2
+"202","South Carolina","2018",3.4
+"203","South Carolina","2019",2.8
+"204","South Carolina","2021",4
+"205","South Carolina","2022",3.5
+"206","South Dakota","2017",3
+"207","South Dakota","2018",2.8
+"208","South Dakota","2019",2.8
+"209","South Dakota","2021",3.1
+"210","South Dakota","2022",2.6
+"211","Tennessee","2017",3.8
+"212","Tennessee","2018",3.5
+"213","Tennessee","2019",3.4
+"214","Tennessee","2021",4.3
+"215","Tennessee","2022",3.4
+"216","Texas","2017",4.3
+"217","Texas","2018",3.9
+"218","Texas","2019",3.5
+"219","Texas","2021",5.7
+"220","Texas","2022",4.6
+"221","Utah","2017",3.2
+"222","Utah","2018",2.9
+"223","Utah","2019",2.6
+"224","Utah","2021",2.7
+"225","Utah","2022",2.1
+"226","Vermont","2017",3
+"227","Vermont","2018",2.6
+"228","Vermont","2019",2.3
+"229","Vermont","2021",3.5
+"230","Vermont","2022",2.9
+"231","Virginia","2017",3.7
+"232","Virginia","2018",3
+"233","Virginia","2019",2.8
+"234","Virginia","2021",3.9
+"235","Virginia","2022",3.2
+"236","Washington","2017",4.6
+"237","Washington","2018",4.4
+"238","Washington","2019",4.3
+"239","Washington","2021",5.3
+"240","Washington","2022",4.3
+"241","West Virginia","2017",5.2
+"242","West Virginia","2018",5.2
+"243","West Virginia","2019",4.9
+"244","West Virginia","2021",5.1
+"245","West Virginia","2022",3.9
+"246","Wisconsin","2017",3.3
+"247","Wisconsin","2018",3
+"248","Wisconsin","2019",3.2
+"249","Wisconsin","2021",3.8
+"250","Wisconsin","2022",2.9
+"251","Wyoming","2017",4.3
+"252","Wyoming","2018",4
+"253","Wyoming","2019",3.8
+"254","Wyoming","2021",4.5
+"255","Wyoming","2022",3.6
