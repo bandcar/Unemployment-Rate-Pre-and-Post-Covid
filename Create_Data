@@ -1,6 +1,0 @@
-# Create CSV 
-write.csv(unemployment_rate, "/Users/melissaalejandro/iCloud Drive (Archive) - 3/Documents/Documents - Melissa’s MacBook Pro/Advanced STATS - R Programming/STA_6233_Spring2022/Project_2/avg_unemployment_rate.csv")
-
-q<-read.csv("/Users/melissaalejandro/iCloud Drive (Archive) - 3/Documents/Documents - Melissa’s MacBook Pro/Advanced STATS - R Programming/STA_6233_Spring2022/Project_2/avg_unemployment_rate.csv", stringsAsFactors = F)
-
-save(q, file="/Users/melissaalejandro/iCloud Drive (Archive) - 3/Documents/Documents - Melissa’s MacBook Pro/Advanced STATS - R Programming/Project2/avg_unemployment_data.RData")
