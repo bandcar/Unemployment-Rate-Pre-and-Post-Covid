@@ -2,15 +2,12 @@ library(shiny)
 library(tidyverse)
 library(plotly)
 library(shinythemes)
-
 load(url("https://github.com/bandcar/Unemployment-Rate-Pre-and-Post-Covid/blob/main/ue_wider.RData?raw=true"))
-
 
 # pivot data to long format
 q_long <- q %>%
   pivot_longer(cols = -Year, names_to = "State", values_to = "unemployment")
 q_long <- q_long %>%   mutate(State = str_replace(State, '\\.', ' '))
-
 
 ui <- fluidPage(
   theme = shinytheme("cerulean"),
